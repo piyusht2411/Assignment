@@ -1,0 +1,231 @@
+#pp input[type=search]{
+    width:50vw !important;
+    margin-top: 0.5rem;
+    display: flex;
+    padding-bottom: 0.8rem;
+    
+    
+}
+#mylist{
+    width: 20% !important;
+    display: flex;
+    margin-top: 1.5rem;     
+}
+h3{
+    /* margin-left: 2.5rem !important; */
+    margin-left: 3vw;
+    margin-top: 0.5rem;
+}
+.myListItem{
+    border: none !important;
+    color: rgb(91, 89, 89);
+}
+.svgLogo{
+    /* margin-right: 3.5rem; */
+    margin-right: 2vw;
+    margin-top: -0.2rem;
+}
+.myListItem:hover{
+    background-color: rgb(3, 139, 139);
+    color: white;
+    font-weight: bolds;
+
+}
+.svgSearch{
+    margin-top: 0.8rem;
+    /* margin-left: 1.5rem;
+    margin-right: 0.5rem; */
+    margin-left: 2vw;
+    margin-right: 0.5vw;
+    padding-bottom: 0.5rem;
+}
+#pp{
+    /* margin-left: 20rem !important; */
+    margin-left: 20vw;
+    margin-top: 0.5rem;
+    border-radius: 0.5rem !important;
+    box-shadow: 1px 1px 1px 1px gray;
+}
+.bellIcon{
+    font-size: 2.2rem;
+    margin-right: 3vw !important;
+    color: rgb(91, 89, 89);
+}
+.settingIcon{
+    margin-right: 3vw !important;
+    margin-top: 0.8rem !important;
+    color: rgb(91, 89, 89);
+    margin-left: 1.3rem;
+
+}
+.settingList{
+    margin-top: 4.5rem !important;
+}
+.middle{
+    margin-top: -41vh;
+    margin-left: 30vw;
+}
+h2{
+    margin-top: 8vh;
+    font-weight: normal;
+    display: inline-block;
+}
+.mybutton{
+    display: inline;
+    margin-left: 25vw;
+}
+.addbutton{
+    margin-left: 1.75vh;
+}
+.mybuttonLogo{
+    margin-left: -1vh;
+    margin-right: 2vh;
+}
+.myform{
+    margin-top: 6vh;
+}
+input[type=text],input[type=email],input[type=number]{
+    width: 50vw;
+}
+.mybuttonSubmit{
+    margin-top: 4vh;
+    margin-left: 31vw;
+}
+.mylable{
+    font-weight: bold;
+}
+.showInfo{
+    margin-left: 30vw;
+    margin-top: 5vh;
+    margin-right: 15vh;
+}
+.myItem{
+    border: solid 1px gray;
+    box-shadow: 1px 1px 1px 1px gray;
+
+}
+#nn1{
+    display: none;
+}
+@media screen and (min-width:480px) and (max-width:720px) {
+    #pp input[type=search]{
+        width:50vw !important;
+        margin-top: 0.5rem;
+        display: flex;
+        padding-bottom: 0.8rem;
+        
+        
+    }
+    #mylist{
+        width: 20% !important;
+        display: flex;
+        margin-top: 1.5rem;     
+    }
+    h3{
+        /* margin-left: 2.5rem !important; */
+        margin-left: 3vw;
+        margin-top: 0.5rem;
+    }
+    .myListItem{
+        border: none !important;
+        color: rgb(91, 89, 89);
+    }
+    .svgLogo{
+        /* margin-right: 3.5rem; */
+        margin-right: 2vw;
+        margin-top: -0.2rem;
+    }
+    .myListItem:hover{
+        background-color: rgb(3, 139, 139);
+        color: white;
+        font-weight: bolds;
+    
+    }
+    .svgSearch{
+        margin-top: 0.8rem;
+        /* margin-left: 1.5rem;
+        margin-right: 0.5rem; */
+        margin-left: 2vw;
+        margin-right: 0.5vw;
+        padding-bottom: 0.5rem;
+    }
+    #pp{
+        /* margin-left: 20rem !important; */
+        margin-left: 20vw;
+        margin-top: 0.5rem;
+        border-radius: 0.5rem !important;
+        box-shadow: 1px 1px 1px 1px gray;
+    }
+    .bellIcon{
+        font-size: 2.2rem;
+        margin-right: 3vw !important;
+        color: rgb(91, 89, 89);
+    }
+    .settingIcon{
+        margin-right: 3vw !important;
+        margin-top: 0.8rem !important;
+        color: rgb(91, 89, 89);
+        margin-left: 1.3rem;
+    
+    }
+    .settingList{
+        margin-top: 4.5rem !important;
+    }
+    .middle{
+        margin-top: -70vh;
+        margin-left: 30vw;
+    }
+    h2{
+        margin-top: 8vh;
+        font-weight: normal;
+        display: inline-block;
+        position: relative;
+        top: 40px;
+    }
+    .mybutton{
+        display: inline;
+        margin-left: 30vw;
+        margin-right: -30vw;
+        position: relative;
+        left: 430px;
+    }
+
+    .addbutton{
+        margin-left: 1.75vh;
+    }
+    .mybuttonLogo{
+        margin-left: -1vh;
+        margin-right: 2vh;
+    }
+    .myform{
+        margin-top: 6vh;
+    }
+    input[type=text],input[type=email],input[type=number]{
+        width: 50vw;
+    }
+    .mybuttonSubmit{
+        margin-top: 4vh;
+        margin-left: 31vw;
+    }
+    .mylable{
+        font-weight: bold;
+    }
+    .showInfo{
+        margin-left: 30vw;
+        margin-top: 1vh;
+        margin-right: 15vh;
+    }
+    .myItem{
+        border: solid 1px gray;
+        box-shadow: 1px 1px 1px 1px gray;
+    
+    }
+    #nn1{
+        display: none;
+    }
+
+    
+}
+
+
+
